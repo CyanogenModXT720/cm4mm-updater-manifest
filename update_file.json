@@ -12,16 +12,6 @@
             "description": "18112011 nightly",
             "branch": "E",
             "filename": "CyanogenMod-7.1.0-MilestoneXT720-18112011-signed.zip"
-        },
-    {   
-            "mod": "MilestoneXT720",
-            "board": "sholest",
-            "type": "rom",
-            "name": "CyanogenMod-6.3.5",
-            "version": "6.3.5",
-            "description": "Added an option to show upcoming events from calendar in lockscreen|Separate media volumes for headset/speaker|Better power profile from nadlabak|Gmaps hack is now optional (but enabled by default)|Cleanup of old, unused modules|AC clear logging disabled",
-            "branch": "S",
-            "filename": "update-cm-6.3.5-Milestone-signed.zip"
         }
     ]
 }
