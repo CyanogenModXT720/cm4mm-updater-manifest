@@ -1,11 +1,11 @@
 {
     "MirrorList": [
-	"http://github.com/downloads/milaq/android/"
+	"http://github.com/downloads/Mioze7Ae/android/"
     ],
     "UpdateList": [
     {   
             "mod": "Milestone",
-            "board": "sholes",
+            "board": "sholest",
             "type": "rom",
             "name": "CyanogenMod-6.3.5",
             "version": "6.3.5",
