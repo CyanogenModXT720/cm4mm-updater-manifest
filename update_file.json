@@ -7,10 +7,10 @@
             "mod": "MilestoneXT720",
             "board": "sholest",
             "type": "rom",
-            "name": "CyanogenMod-7.1",
-            "version": "7.1.0.1",
+            "name": "CyanogenMod-7.1-18112011",
+            "version": "7.1.0.18112011",
             "description": "18112011 nightly",
-            "branch": "E",
+            "branch": "X",
             "filename": "CyanogenMod-7.1.0-MilestoneXT720-18112011-signed.zip"
         }
     ]
