@@ -1,6 +1,6 @@
 {
     "MirrorList": [
-	"http://github.com/downloads/CyanogenModXT720/android/"
+	"http://xt720.ru/Files/Mods/cm7/"
     ],
     "UpdateList": [
     {   
@@ -12,6 +12,16 @@
             "description": "18112011 nightly",
             "branch": "X",
             "filename": "CyanogenMod-7.1.0-MilestoneXT720-18112011-signed.zip"
+        },
+    {   
+            "mod": "MilestoneXT720",
+            "board": "sholest",
+            "type": "rom",
+            "name": "CyanogenMod-7.1-29112011",
+            "version": "7.1.0.29112011",
+            "description": "29112011 nightly",
+            "branch": "S",
+            "filename": "CyanogenMod-7.1.0-MilestoneXT720-29112011-signed.zip"
         }
     ]
 }
