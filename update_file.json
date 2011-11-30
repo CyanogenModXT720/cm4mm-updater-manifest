@@ -22,6 +22,16 @@
             "description": "29112011 nightly",
             "branch": "S",
             "filename": "CyanogenMod-7.1.0-MilestoneXT720-29112011-signed.zip"
+        },
+    {   
+            "mod": "MilestoneXT720",
+            "board": "sholest",
+            "type": "rom",
+            "name": "CyanogenMod-7.1-20111130",
+            "version": "7.1.0.20111130",
+            "description": "20111130 nightly",
+            "branch": "S",
+            "filename": "CyanogenMod-7.1.0-MilestoneXT720-20111130-signed.zip"
         }
     ]
 }
